@@ -1,0 +1,38 @@
+header, footer, nav, aside, article { display: block; margin: 2px; }
+#content {width: 700px; text-align: center;}
+
+.content {width: 480px;
+font-size: 14px; 
+float: left;}
+
+.header{
+font-size: 46px;	
+background-color: magenta;
+}
+
+.navegation{ 	;
+	float: left;	
+	width: 15%;
+	background-color: blue;
+	height: 230px;
+	font-size: 14;
+ }
+
+ .siderbar {float: right;
+ 	width: 15%;
+ 	background-color: magenta;
+ 	height: 230px;
+ 	font-size: 14px;
+	}
+
+article{
+	background-color: blue;
+	padding: 75px;
+	 	
+		}
+
+footer {
+	clear: both;
+	background-color: magenta;
+	font-size: 10px;
+ 	}
